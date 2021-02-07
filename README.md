@@ -1,2 +1,2 @@
 # Lucene-Indexer
-Aplicación que permite indexar y buscar una colección de páginas web.
+Aplicación que permite indexar y realizar busquedas en una colección de páginas web.
